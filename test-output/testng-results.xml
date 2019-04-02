@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88762" started-at="2019-03-29T06:13:55Z" finished-at="2019-03-29T06:15:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88762" started-at="2019-03-29T06:13:55Z" finished-at="2019-03-29T06:15:24Z">
+      <class name="com.dx.testScripts.TestRegister">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.dx.testScripts.TestRegister@475530b9]" name="SetUp" is-config="true" duration-ms="17367" started-at="2019-03-29T14:13:55Z" finished-at="2019-03-29T14:14:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test_register_sucess()[pri:0, instance:com.dx.testScripts.TestRegister@475530b9]" name="test_register_sucess" duration-ms="70008" started-at="2019-03-29T14:14:12Z" finished-at="2019-03-29T14:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_register_sucess -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.dx.testScripts.TestRegister@475530b9]" name="endTest" is-config="true" duration-ms="1365" started-at="2019-03-29T14:15:22Z" finished-at="2019-03-29T14:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.dx.testScripts.TestRegister -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
