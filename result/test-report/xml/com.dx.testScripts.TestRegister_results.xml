@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="70.408">
+           time="69.858">
   <properties />
   
   
-            <testcase name="test_register_sucess" time="70.408" classname="com.dx.testScripts.TestRegister" />
+            <testcase name="test_register_sucess" time="69.858" classname="com.dx.testScripts.TestRegister" />
       
 </testsuite>

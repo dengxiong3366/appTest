@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="93.48" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="89.52" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="D:\Astudy\Java\jdk1.8.0_151\jre\bin"/>
     <property name="java.vm.version" value="25.151-b12"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="F:\eclipsework\eclipse-workspace\dx"/>
+    <property name="maven.multiModuleProjectDirectory" value="F:\eclipsework\eclipse-workspace\appTest"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="F:\eclipsework\eclipse-workspace\dx"/>
+    <property name="user.dir" value="F:\eclipsework\eclipse-workspace\appTest"/>
     <property name="java.runtime.version" value="1.8.0_151-b12"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="D:\Astudy\Java\jdk1.8.0_151\jre\lib\endorsed"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="F:\eclipsework\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5433412606867531142.tmp"/>
+    <property name="classworlds.conf" value="F:\eclipsework\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf514211902957314371.tmp"/>
     <property name="sun.jnu.encoding" value="GBK"/>
     <property name="java.library.path" value="D:\Astudy\Java\jdk1.8.0_151\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:/Astudy/Java/jre/bin/server;D:/Astudy/Java/jre/bin;D:/Astudy/Java/jre/lib/amd64;E:\python\Python36\Scripts\;E:\python\Python36\;D:\Oracle\product\11.2.0\client_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\Astudy\Java\jdk1.8.0_151\bin;D:\Astudy\Java\jdk1.8.0_151\jre\bin;C:\Program Files (x86)\Common Files\Thunder Network\KanKan\Codecs;D:\SDK\adt-bundle-windows-x86_64-20140702\sdk\platform-tools;C:\Program Files (x86)\Appium\node_modules\.bin;D:\SDK\adt-bundle-windows-x86_64-20140702\sdk\tools;C:\Program Files\nodejs;D:\SDK\moni\Nox\bin;D:\SDK\maven\apache-maven-3.6.0\bin;C:\Users\dengx\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\Astudy\eclipse\jee-oxygen\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -60,5 +60,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="test_register_sucess" classname="com.dx.testScripts.TestRegister" time="70.408"/>
+  <testcase name="test_register_sucess" classname="com.dx.testScripts.TestRegister" time="69.858"/>
 </testsuite>

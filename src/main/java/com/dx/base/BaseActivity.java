@@ -20,7 +20,7 @@ public class BaseActivity {
 	public static AndroidDriver<AndroidElement> driver;
 	@BeforeClass
 	public void SetUp() throws Exception {
-		PropertyConfigurator.configure("F://eclipsework//eclipse-workspace//dx//config//log4j.properties");
+		PropertyConfigurator.configure("config/log4j.properties");
 		logger.info("----------------测试用例执行开始-------------------");
 		File apk = new File(System.getProperty("user.dir")+File.separator+"apps"+File.separator+Constants.测试手机_dx.apkName);
 		DesiredCapabilities capabilities = new DesiredCapabilities();

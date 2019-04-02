@@ -13,7 +13,7 @@ public class Constants {
 		public static final String noSign = "True";
 }
 	public class 测试Excel文件{
-		public static final String filepath = "F:\\eclipsework\\eclipse-workspace\\dx\\data\\register.xlsx";
+		public static final String filepath = "F:\\eclipsework\\eclipse-workspace\\appTest\\data\\register.xlsx";
 	}
 	
 	public class 测试调度文件{
